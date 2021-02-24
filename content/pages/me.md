@@ -4,7 +4,7 @@ slug: me
 template: page
 ---
 
-I’m Ahmed Ibrahim, a full stack software engineer, Software Engineer [at] **Maxiom app** | Founder of 04 Egypt 
+I’m Muhamad Abdul Basid, a full stack software engineer, Software Engineer [at] **Maxiom app** | Founder of 04 Egypt 
 
  I have been developing applications for around 3 years. Most of my experience lies in full-stack development Scraping/Automation and server administration.
 
