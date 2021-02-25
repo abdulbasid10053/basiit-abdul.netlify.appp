@@ -26,18 +26,18 @@ export default class Index extends Component {
         <div className="container">
           <div className="lead">
             <div className="elevator">
-              <h1>{`Hi,I'm Ahmed 👋`} </h1>
+              <h2>{`Hi,I'm Basiit 👋`} </h2>
               <p>
-                {`I'm a full stack software engineer`}
-              {' with 3 years of experience with Node.js. I do believe that anyone can master how to write better code, But ideas and passion cannot be gained that easy, based on my co-workers my strengths is the ability to produce ideas and passion. My forever favorite quote: DO IT WITH PASSION OR NOT AT ALL. '}
+                {` I build website, mobile app`}
+              {' I'm a developer and designer. I created this site to document everything I learn, and share a bit of myself with the world.'}
               </p>
               <div className="social-buttons">
                 <GitHubButton
-                  href="https://github.com/ahmadIbrahiim"
+                  href="https://github.com/abdulbasid10053"
                   data-size="large"
                   data-show-count="true"
                 >
-                  AhmadIbrahiim
+                  Basiit_abdul
                 </GitHubButton>
               </div>
             </div>
