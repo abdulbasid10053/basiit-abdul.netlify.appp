@@ -4,13 +4,13 @@ export default [
     title: 'SM Rumah Sakit',
     path: 'https://github.com/abdulbasid10053/SistemManajemenRumahSakit-JavaGUINetbeans-8.2',
     source: 'https://github.com/abdulbasid10053/SistemManajemenRumahSakit-JavaGUINetbeans-8.2',
-    description: 'Blood bot is the first Arabic Messenger Bot that allows people to request blood donation from nearby donors.',
+    description: 'It is a hospital management system application made in Java and Netbean 8.2',
   },
   {
     icon: '⚡',
     title: 'basiit.dev',
-    path: 'https://www.basiit-abdul.netlify.com/',
-    source: 'https://www.basiit-abdul.netlify.com/',
+    path: 'https://basiit-abdul.netlify.app',
+    source: 'https://basiit-abdul.netlify.app',
     description: 'Personal theme for Gatsby (the source of this website).',
   }
 ]
