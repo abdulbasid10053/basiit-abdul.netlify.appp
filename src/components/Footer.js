@@ -38,12 +38,6 @@ export default class Footer extends Component {
             />
           </a>
         </div>
-        <small>
-          Made by <strong>Basiit abdul</strong> / <strong></strong>Design by Tania Rascia</strong>{''}
-          <a href="https://github.com/taniarascia/taniarascia.com" target="_blank">
-            View source
-          </a>
-        </small>
       </footer>
     )
   }
