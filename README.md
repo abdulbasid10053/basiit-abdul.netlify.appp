@@ -16,9 +16,9 @@ The [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/
 - Tags and categories
 - Night mode
 - DOS mode (404)
-- Code theme (starring [New Moon](https://Ahmedrascia.github.io/new-moon))
-- Sass (starring [Primitive](https://Ahmedrascia.github.io/primitive))
-
+- Code theme
+- Sass
+- 
 ## Contributing
 
 If you see any typos or formatting errors in a post, or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!
@@ -29,9 +29,6 @@ If you see any typos or formatting errors in a post, or any other issue that nee
 - Muhammad Muhsin - [Using React Context API with Gatsby](https://www.gatsbyjs.org/blog/2019-01-31-using-react-context-api-with-gatsby/)
 - Thomas Frössman - [ExitWP](https://github.com/thomasf/exitwp) - WordPress XML to Markdown
 
-## Author
-
-- [Ahmed Ibrahim](https://www.ahmed-ibrahim.com)
 
 <a href="https://patreon.com/Ahmedrascia"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/Ahmedrascia&style=for-the-badge" alt="Patreon donate button" /> </a>
 
