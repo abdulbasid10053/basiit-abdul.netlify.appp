@@ -18,7 +18,7 @@ The [Gatsby Advanced Starter](https://github.com/vagr9k/gatsby-advanced-starter/
 - DOS mode (404)
 - Code theme
 - Sass
-- 
+
 ## Contributing
 
 If you see any typos or formatting errors in a post, or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!
