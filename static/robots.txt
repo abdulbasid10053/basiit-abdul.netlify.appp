@@ -1,3 +1,3 @@
 User-agent: *
 
-sitemap: https://www.ahmed-ibrahim.com/sitemap.xml
+sitemap: https://basiit-abdul.netlify.app/sitemap.xml

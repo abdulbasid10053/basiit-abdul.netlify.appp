@@ -1,8 +1,8 @@
 {
-  "name": "ahmed-ibrahim.com",
+  "name": "basiit-abdul.netlify.app",
   "description": "Personal website running on Gatsby, React, and Node.js.",
   "version": "1.0.1",
-  "author": "Ahmed Ibrahim <hello@ahmed-ibrahim.com>",
+  "author": "Basiit Abdul <hello@ahmed-ibrahim.com>",
   "repository": "git@github.com:ahmedibrahhim/ahmed-ibrahim.com",
   "dependencies": {
     "eslint-utils": "^1.4.1",
@@ -56,7 +56,7 @@
     "write-good": "^1.0.1"
   },
   "keywords": [
-    "Ahmed Ibrahim",
+    "Basiit Abdul",
     "development",
     "dev",
     "tutorials",

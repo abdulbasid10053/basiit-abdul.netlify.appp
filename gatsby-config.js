@@ -109,7 +109,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata
           ret.allMarkdownRemark = ref.query.allMarkdownRemark
-          ret.generator = 'Ahmed Ibrahim'
+          ret.generator = 'Basiit Abdul'
           return ret
         },
         query: `
@@ -173,7 +173,7 @@ module.exports = {
             }
           `,
             output: config.siteRss,
-            title: 'Ahmed Ibrahim - RSS Feed',
+            title: 'Basiit Abdul - RSS Feed',
           },
         ],
       },
