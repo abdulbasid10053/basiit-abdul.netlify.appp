@@ -9,17 +9,17 @@ export default class Footer extends Component {
     return (
       <footer className="footer container">
         <div>
-          <a href="https://twitter.com/ahmed_ibrahim" target="_blank" rel="noopener noreferrer">
-            Twitter
+          <a href="https://Instagram.com/basiit_abdul" target="_blank" rel="noopener noreferrer">
+            Instagram
           </a>
     
           <Link to="/contact">Contact me</Link>
-          <a href="https://www.ahmed-ibrahim.com/rss.xml" target="_blank" rel="noopener noreferrer">
+          <a href="https://basiit-abdul.netlify.app" target="_blank" rel="noopener noreferrer">
             RSS
           </a>
         </div>
         <div>
-          <a href="https://github.com/AhmadIbrahiim" title="Open-source on GitHub">
+          <a href="https://github.com/abdulbasid10053" title="Open-source on GitHub">
             <img
               src={github}
               target="_blank"
@@ -38,6 +38,12 @@ export default class Footer extends Component {
             />
           </a>
         </div>
+        <small>
+          Made by <strong>Basiit abdul</strong> / <strong></strong>Design by Tania Rascia</strong>{''}
+          <a href="https://github.com/taniarascia/taniarascia.com" target="_blank">
+            View source
+          </a>
+        </small>
       </footer>
     )
   }

@@ -1,6 +1,5 @@
 export default [
   {
-  {
     icon: '🏥',
     title: 'SM Rumah Sakit',
     path: 'https://github.com/abdulbasid10053/SistemManajemenRumahSakit-JavaGUINetbeans-8.2',
