@@ -42,7 +42,7 @@ export default class Index extends Component {
               </div>
             </div>
             <div className="newsletter-section">
-              <img src={ahmed} className="newsletter-avatar" alt="Ahmed" />
+              <img src={ahmed} className="newsletter-avatar" alt="basiit Abdul" />
             </div>
           </div>
         </div>
