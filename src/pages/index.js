@@ -26,10 +26,10 @@ export default class Index extends Component {
         <div className="container">
           <div className="lead">
             <div className="elevator">
-              <h2>{`Hi,I'm Basiit 👋`} </h2>
+              <h1>{`Hi,I'm Basiit 👋`} </h1>
               <p>
-                {` I build website, mobile app`}
-              {' I'm a developer and designer. I created this site to document everything I learn, and share a bit of myself with the world.'}
+                {`I'm a developer and desiger `}
+              {' I do believe that anyone can master how to write better code, But ideas and passion cannot be gained that easy, based on my co-workers my strengths is the ability to produce ideas and passion. My forever favorite quote: DO IT WITH PASSION OR NOT AT ALL. '}
               </p>
               <div className="social-buttons">
                 <GitHubButton
