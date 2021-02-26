@@ -33,7 +33,7 @@ export default class PostTemplate extends Component {
     const githubLink = editOnGithub(post)
     const twitterShare = `http://twitter.com/share?text=${encodeURIComponent(post.title)}&url=${
       config.siteUrl
-    }/${post.slug}/&via=Ahmed_ibrahhim`
+    }/${post.slug}/&via=Basiit_abdul`
 
     return (
       <Layout>
@@ -47,7 +47,7 @@ export default class PostTemplate extends Component {
             <div className="flex">
               <h1>{post.title}</h1>
               <div className="post-meta">
-                <img src={Ahmed} className="avatar-small" alt="Ahmed" />
+                <img src={Ahmed} className="avatar-small" alt="Basiit Abdul" />
                 <time className="date">{date}</time>/
                 <a
                   className="twitter-link"
