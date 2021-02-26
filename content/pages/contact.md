@@ -11,7 +11,7 @@ If you have any comments, ideas, critiques, or you just want to say hi, don't he
 
 ### Around the web
 
-- **Email**: [meabdulbasid10053@gmail.com](mailto:abdulbasid10053@gmail.co)
+- **Email**: [abdulbasid10053@gmail.com](mailto:abdulbasid10053@gmail.co)
 - **GitHub**: [basiit_abdul](https://github.com/abdulbasid10053)
 - **Instagram**: [basiit_abdul](https://instagram.com/basiitabdul)
 
