@@ -6,12 +6,16 @@ webhook_url:
 sections:
 - type: directory
   path: ''
+  label: Blog
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
+  path: ''
   label: posts
   create: documents
-  match: content/posts
+  match: "'**/*'"
   new_doc_ext: md
-- type: heading
-  label: Blog
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
