@@ -12,12 +12,6 @@ fields:
   name: template
   label: template
   default: post
-- name: thumbnail
-  type: text
-  config:
-    required: false
-  label: thumbnails
-  default: "../thumbnails/"
 - type: datetime
   name: date
   label: date
