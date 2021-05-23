@@ -2,9 +2,6 @@
 label: Blog Post
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
   label: title
@@ -15,6 +12,9 @@ fields:
   name: template
   label: template
   default: post
+- type: datetime
+  name: date
+  label: date
 - type: file
   name: thumbnail
   label: thumbnail
