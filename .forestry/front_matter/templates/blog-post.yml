@@ -12,23 +12,20 @@ fields:
   name: template
   label: template
   default: post
+- name: thumbnail
+  type: text
+  config:
+    required: false
+  label: thumbnail
+  default: "../thumbnails/"
 - type: datetime
   name: date
   label: date
-- type: file
-  name: seoImage
-  label: seoImage
 - type: list
   name: categories
   label: categories
 - type: list
   name: tags
   label: tags
-- name: thumbnails
-  type: text
-  config:
-    required: false
-  label: thumbnails
-  default: "../thumbnails/"
 pages:
 - content/posts/mencoba-web-statis-gatsby-framework-dengan-cms-forestry.md

@@ -9,7 +9,7 @@ sections:
   label: thumbnails
   create: documents
   match: "**/*"
-  new_doc_ext: ".png"
+  new_doc_ext: png
 - type: directory
   path: content/posts
   label: Post
