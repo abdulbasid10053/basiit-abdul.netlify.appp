@@ -7,8 +7,9 @@ sections:
 - type: directory
   path: content/thumbnails
   label: thumbnails
-  create: none
+  create: documents
   match: "**/*"
+  new_doc_ext: ".png"
 - type: directory
   path: content/posts
   label: Post
