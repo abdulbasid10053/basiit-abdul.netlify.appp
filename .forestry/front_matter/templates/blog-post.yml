@@ -16,9 +16,6 @@ fields:
   name: date
   label: date
 - type: file
-  name: thumbnail
-  label: thumbnail
-- type: file
   name: seoImage
   label: seoImage
 - type: list
@@ -27,5 +24,11 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: thumbnails
+  type: text
+  config:
+    required: false
+  label: thumbnails
+  default: "../thumbnails/"
 pages:
 - content/posts/mencoba-web-statis-gatsby-framework-dengan-cms-forestry.md
