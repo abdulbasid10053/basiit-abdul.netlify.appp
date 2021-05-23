@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/thumbnails/**/*
+- type: directory
+  path: content/thumbnails
   label: thumbnails
-  read_only: true
+  create: none
+  match: "**/*"
 - type: directory
   path: content/posts
   label: Post
