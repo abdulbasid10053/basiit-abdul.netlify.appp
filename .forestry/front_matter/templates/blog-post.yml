@@ -12,7 +12,7 @@ fields:
   name: template
   label: template
   default: post
-- name: thumbnails
+- name: thumbnail
   type: text
   config:
     required: false
