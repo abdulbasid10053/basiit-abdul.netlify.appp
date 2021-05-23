@@ -2,7 +2,7 @@
 date: 2019-09-24
 title: dah lah
 template: post
-thumbnail: "../thumbnails/git.png"
+thumbnail: ''
 slug: download-the-source-code-of-anywebsite
 categories:
 - Tools
