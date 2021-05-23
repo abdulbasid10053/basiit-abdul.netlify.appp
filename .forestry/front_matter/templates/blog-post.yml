@@ -27,3 +27,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/posts/mencoba-web-statis-gatsby-framework-dengan-cms-forestry.md
