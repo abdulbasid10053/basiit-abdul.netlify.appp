@@ -12,11 +12,11 @@ fields:
   name: template
   label: template
   default: post
-- name: thumbnail
+- name: thumbnails
   type: text
   config:
     required: false
-  label: thumbnail
+  label: thumbnails
   default: "../thumbnails/"
 - type: datetime
   name: date
