@@ -5,10 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: post
+  path: content/posts
   label: artikel
   create: all
   match: "**/*"
+  new_doc_ext: ".md"
 - type: document
   path: content/posts
   label: post
