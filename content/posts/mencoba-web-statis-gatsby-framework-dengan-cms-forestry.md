@@ -4,13 +4,14 @@ title: 'Mencoba web statis gatsby framework dengan CMS FORESTRY '
 slug: 'Mencoba web statis gatsby framework dengan CMS FORESTRY '
 date: 2021-05-23T17:00:00.000+00:00
 thumbnail: "/images/forestry-logo.svg"
-seoImage: "/images/forestry-logo.svg"
+seoImage: ''
 categories:
 - website
 tags:
 - forestry
 - getsby
 - netlify
+thumbnails: "../thumbnails/forestry-logo.svg"
 
 ---
 Dengan forestry kita dapat merubah website statis menjadi seperti CMS
