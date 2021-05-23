@@ -9,11 +9,11 @@ sections:
   label: Blog
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: directory
-  path: ''
+  path: content
   label: posts
-  create: documents
+  create: all
   match: "'**/*'"
   new_doc_ext: md
 upload_dir: uploads
