@@ -3,7 +3,7 @@ template: post
 title: 'Mencoba web statis gatsby framework dengan CMS FORESTRY '
 slug: 'Mencoba web statis gatsby framework dengan CMS FORESTRY '
 date: 2021-05-23T17:00:00.000+00:00
-thumbnail: "/images/forestry-logo.svg"
+thumbnail: "../thumbnails/forestry-logo.svg"
 seoImage: ''
 categories:
 - website
