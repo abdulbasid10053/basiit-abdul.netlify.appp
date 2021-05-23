@@ -27,3 +27,10 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: bl_og
+  type: blocks
+  label: bl;og
+  template_types: []
+  config:
+    min: 
+    max: 
