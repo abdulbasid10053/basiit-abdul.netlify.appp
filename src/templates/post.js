@@ -8,7 +8,7 @@ import PostTags from '../components/PostTags'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
 import { formatDate, editOnGithub } from '../utils/global'
-import Ahmed from '../../content/images/profile-small.jpg'
+import Basid from '../../content/images/profile-small.jpg'
 
 export default class PostTemplate extends Component {
   render() {
@@ -47,7 +47,7 @@ export default class PostTemplate extends Component {
             <div className="flex">
               <h1>{post.title}</h1>
               <div className="post-meta">
-                <img src={Ahmed} className="avatar-small" alt="Basiit Abdul" />
+                <img src={Basid} className="avatar-small" alt="Basiit Abdul" />
                 <time className="date">{date}</time>/
                 <a
                   className="twitter-link"
