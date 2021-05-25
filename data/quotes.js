@@ -6,7 +6,7 @@ export default [
     `
   },
   {
-    name: 'Lori',
+    name: 'Loria',
     quote: `I had a phenomenal experience working with Ahmed! He is very hardworking & understood the project scope quickly. He is knowledgeable in chatbots, especially within Chatfuel. Fantastic job! I will be working with him again very soon`,
   },
   {
