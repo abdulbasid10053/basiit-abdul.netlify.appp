@@ -11,7 +11,6 @@ tags:
 - forestry
 - getsby
 - netlify
-thumbnails: "../thumbnails/forestry-logo.svg"
 
 ---
 Dengan forestry kita dapat merubah website statis menjadi seperti CMS
